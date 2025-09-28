@@ -21,7 +21,9 @@ export default function Header() {
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-1">
               <Phone className="w-3 h-3" />
-              <span>+373 695 726 52</span>
+              <a href="tel:+37369572652" className="hover:underline">
+                +373 695 726 52
+              </a>
             </div>
             <span>•</span>
             <span>bancila-victor@mail.ru</span>
@@ -47,10 +49,10 @@ export default function Header() {
         <div className="flex items-center justify-between py-4">
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 bg-primary text-primary-foreground rounded-md flex items-center justify-center font-bold">
-              TE
+              PC
             </div>
             <div>
-              <h1 className="text-xl font-bold text-foreground">TransEuropa</h1>
+              <h1 className="text-xl font-bold text-foreground">Pasageri-Colete</h1>
               <p className="text-xs text-muted-foreground">Transport Professional</p>
             </div>
           </div>

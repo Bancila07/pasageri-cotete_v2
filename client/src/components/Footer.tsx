@@ -32,9 +32,7 @@ const footerSections = [
 ];
 
 const socialLinks = [
-  { icon: Facebook, href: '#', label: 'Facebook' },
-  { icon: Instagram, href: '#', label: 'Instagram' },
-  { icon: Linkedin, href: '#', label: 'LinkedIn' }
+  { icon: Facebook, href: 'https://www.facebook.com/victor.bancila.3', label: 'Facebook', target: '_blank' },
 ];
 
 export default function Footer() {
@@ -73,7 +71,9 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <Phone className="w-4 h-4 opacity-80" />
-                <span className="text-sm">+373 695 726 52</span>
+                <a href="tel:+37369572652" className="hover:underline text-sm">
+                  +373 695 726 52
+                </a>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-4 h-4 opacity-80" />
@@ -126,16 +126,23 @@ export default function Footer() {
                 {socialLinks.map((social, index) => {
                   const IconComponent = social.icon;
                   return (
-                    <Button
-                      key={index}
-                      variant="ghost"
-                      size="icon"
-                      className="w-8 h-8 text-primary-foreground/80 hover:text-primary-foreground hover:bg-primary-foreground/10"
-                      onClick={() => handleSocialClick(social.label)}
-                      data-testid={`button-social-${social.label.toLowerCase()}`}
-                    >
-                      <IconComponent className="w-4 h-4" />
-                    </Button>
+                      <Button
+                          key={index}
+                          asChild
+                          variant="ghost"
+                          size="icon"
+                          className="w-8 h-8 text-primary-foreground/80 hover:text-primary-foreground hover:bg-primary-foreground/10"
+                          data-testid={`button-social-${social.label.toLowerCase()}`}
+                          aria-label={social.label}
+                      >
+                        <a
+                            href={social.href}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                          <IconComponent className="w-4 h-4" />
+                        </a>
+                      </Button>
                   );
                 })}
               </div>
@@ -143,11 +150,12 @@ export default function Footer() {
 
             {/* Quick Action Buttons */}
             <div className="flex gap-3">
-              <Button 
-                variant="secondary" 
-                size="sm"
-                onClick={() => handleQuickContact('phone')}
-                data-testid="button-call-footer"
+              <Button
+                  variant="secondary"
+                  size="sm"
+                  onClick={() => { window.location.href = 'tel:+37369572652'; }}
+                  data-testid="button-call-footer"
+                  aria-label="Sună acum +373 695 726 52"
               >
                 <Phone className="w-4 h-4 mr-2" />
                 Sună acum
