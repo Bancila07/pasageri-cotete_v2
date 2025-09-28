@@ -54,10 +54,10 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <div className="flex items-center gap-3 mb-6">
               <div className="w-10 h-10 bg-primary-foreground text-primary rounded-lg flex items-center justify-center font-bold">
-                TE
+                PC
               </div>
               <div>
-                <h3 className="text-xl font-bold">TransEuropa</h3>
+                <h3 className="text-xl font-bold">Pasageri-Colete</h3>
                 <p className="text-sm opacity-90">Transport Professional</p>
               </div>
             </div>
