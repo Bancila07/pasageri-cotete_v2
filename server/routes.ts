@@ -94,8 +94,10 @@ export async function registerRoutes(app: Express): Promise<Server> {
   // Booking endpoints
   app.post("/api/bookings", async (req, res) => {
     try {
-      // Validate request body
-      const validationResult = insertBookingSchema.safeParse(req.body);
+      // Validate request body - but ignore totalPrice as we'll calculate it server-side
+      const { totalPrice, ...bookingDataWithoutPrice } = req.body;
+      const validationResult = insertBookingSchema.omit({ totalPrice: true }).safeParse(bookingDataWithoutPrice);
+      
       if (!validationResult.success) {
         return res.status(400).json({ 
           error: "Validation failed", 
@@ -105,7 +107,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
 
       const bookingData = validationResult.data;
       
-      // Check schedule availability
+      // Get schedule to calculate price server-side
       const schedules = await storage.getSchedules();
       const schedule = schedules.find(s => s.id === bookingData.scheduleId);
       
@@ -113,20 +115,48 @@ export async function registerRoutes(app: Express): Promise<Server> {
         return res.status(404).json({ error: "Schedule not found" });
       }
 
-      // Check if enough seats are available for passenger bookings
+      // Calculate server-side price (security: never trust client price)
+      let quantity = 1;
+      let basePrice = 0;
+
+      switch (bookingData.serviceType) {
+        case 'passenger':
+          quantity = bookingData.passengerCount || 1;
+          basePrice = parseFloat(schedule.basePricePassenger || "0");
+          break;
+        case 'package':
+          quantity = parseFloat(bookingData.packageWeight || "0");
+          basePrice = parseFloat(schedule.basePricePackage || "0");
+          break;
+        case 'car':
+          quantity = 1;
+          basePrice = parseFloat(schedule.basePriceCar || "0");
+          break;
+        default:
+          return res.status(400).json({ error: "Invalid service type" });
+      }
+
+      const serverCalculatedPrice = (basePrice * quantity).toFixed(2);
+
+      // Security fix: Check seat availability properly (including 0 seats)
       if (bookingData.serviceType === 'passenger') {
         const requiredSeats = bookingData.passengerCount || 1;
-        if (schedule.availableSeats && schedule.availableSeats < requiredSeats) {
+        if (schedule.availableSeats === null || schedule.availableSeats < requiredSeats) {
           return res.status(400).json({ 
             error: "Not enough seats available",
-            availableSeats: schedule.availableSeats,
+            availableSeats: schedule.availableSeats || 0,
             requestedSeats: requiredSeats
           });
         }
       }
 
-      // Create the booking
-      const booking = await storage.createBooking(bookingData);
+      // Create booking with server-calculated price
+      const bookingWithPrice = {
+        ...bookingData,
+        totalPrice: serverCalculatedPrice
+      };
+
+      const booking = await storage.createBooking(bookingWithPrice);
 
       // Update seat availability for passenger bookings
       if (booking.serviceType === 'passenger' && booking.passengerCount) {

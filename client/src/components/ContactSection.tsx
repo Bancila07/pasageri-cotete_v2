@@ -3,8 +3,10 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { Phone, Mail, MapPin, Clock, MessageCircle } from "lucide-react";
+import { Phone, Mail, MapPin, Clock, MessageCircle, Loader2 } from "lucide-react";
 import { useState } from "react";
+import { useMutation } from "@tanstack/react-query";
+import { useToast } from "@/hooks/use-toast";
 
 const contactMethods = [
   {
@@ -48,11 +50,51 @@ export default function ContactSection() {
     message: ''
   });
 
+  const { toast } = useToast();
+
+  // Contact form submission mutation
+  const contactMutation = useMutation({
+    mutationFn: async (contactData: typeof formData) => {
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(contactData)
+      });
+      if (!response.ok) {
+        const error = await response.json();
+        throw new Error(error.error || 'Failed to submit contact form');
+      }
+      return response.json();
+    },
+    onSuccess: () => {
+      toast({
+        title: "Mesaj trimis cu succes!",
+        description: "Vă vom contacta în cel mai scurt timp posibil. Vă mulțumim pentru încredere!",
+      });
+      setFormData({ name: '', email: '', phone: '', subject: '', message: '' });
+    },
+    onError: (error: Error) => {
+      toast({
+        title: "Eroare la trimiterea mesajului",
+        description: error.message,
+        variant: "destructive",
+      });
+    }
+  });
+
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    console.log('Contact form submitted:', formData);
-    // TODO: Remove mock functionality - implement real form submission
-    setFormData({ name: '', email: '', phone: '', subject: '', message: '' });
+    
+    if (!formData.name || !formData.email || !formData.subject || !formData.message) {
+      toast({
+        title: "Câmpuri incomplete",
+        description: "Vă rugăm să completați toate câmpurile obligatorii.",
+        variant: "destructive",
+      });
+      return;
+    }
+
+    contactMutation.mutate(formData);
   };
 
   const handleQuickContact = (type: string, value: string) => {
@@ -219,8 +261,20 @@ export default function ContactSection() {
                   />
                 </div>
 
-                <Button type="submit" className="w-full" data-testid="button-submit-contact">
-                  Trimite Mesajul
+                <Button 
+                  type="submit" 
+                  className="w-full" 
+                  disabled={contactMutation.isPending}
+                  data-testid="button-submit-contact"
+                >
+                  {contactMutation.isPending ? (
+                    <>
+                      <Loader2 className="w-4 h-4 mr-2 animate-spin" />
+                      Se trimite...
+                    </>
+                  ) : (
+                    'Trimite Mesajul'
+                  )}
                 </Button>
               </form>
             </CardContent>
