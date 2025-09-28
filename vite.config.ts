@@ -18,7 +18,7 @@ export default defineConfig(async () => {
 
   return {
     plugins,
-    base: "/pasageri-cotete_v2/",
+    base: "/",
     resolve: {
       alias: {
         "@": path.resolve(__dirname, "client", "src"),
