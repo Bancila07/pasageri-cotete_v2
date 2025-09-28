@@ -13,7 +13,7 @@ const services = [
     icon: Bus,
     image: passengerImage,
     features: ['Locuri confortabile', 'WiFi gratuit', 'Sistem de divertisment', '2 șoferi profesioniști'],
-    price: 'de la €35',
+    price: 'de la €120',
     color: 'chart-2'
   },
   {
