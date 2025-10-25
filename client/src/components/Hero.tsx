@@ -143,11 +143,7 @@ export default function Hero() {
 
                   {/* WhatsApp & Viber */}
                   <div className="flex items-start gap-4">
-                    <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
-                      <MessageCircle className="w-6 h-6 text-primary" />
-                    </div>
                     <div className="flex-1">
-                      <h4 className="font-semibold text-foreground mb-2">Mesagerie</h4>
                       <div className="flex gap-3">
                         <Button
                             className="flex-1"

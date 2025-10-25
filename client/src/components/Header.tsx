@@ -63,7 +63,8 @@ export default function Header() {
             <a href="#routes" className="text-foreground hover-elevate px-3 py-2 rounded-md">Rute</a>
             <a href="#facilities" className="text-foreground hover-elevate px-3 py-2 rounded-md">Facilități</a>
             <a href="#contact" className="text-foreground hover-elevate px-3 py-2 rounded-md">Contact</a>
-            <Button size="sm" data-testid="button-reserve">
+            <Button size="sm" data-testid="button-reserve"
+            onClick={() => (window.location.href = "tel:+37369572652")}>
               Rezervă Acum
             </Button>
           </nav>
@@ -88,7 +89,11 @@ export default function Header() {
               <a href="#routes" className="text-foreground hover-elevate px-3 py-3 rounded-md">Rute</a>
               <a href="#facilities" className="text-foreground hover-elevate px-3 py-3 rounded-md">Facilități</a>
               <a href="#contact" className="text-foreground hover-elevate px-3 py-3 rounded-md">Contact</a>
-              <Button className="mt-2" data-testid="button-reserve-mobile">
+              <Button
+                  className="mt-2"
+                  data-testid="button-reserve-mobile"
+                  onClick={() => (window.location.href = "tel:+37369572652")}
+              >
                 Rezervă Acum
               </Button>
             </div>
