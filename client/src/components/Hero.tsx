@@ -6,8 +6,8 @@ import heroImage from "@assets/stock_images/modern_luxury_coach__2d4d27b5.jpg";
 
 const PHONE_MAIN = "+373 695 726 52";
 const PHONE_CLEAN = "+37369572652";
-const EMAIL_MAIN = "rezervari@transeuropa.md";
-const ADDRESS = "Chișinău, bd. Dacia 10";
+const EMAIL_MAIN = "bancila-victor@mail.ru";
+const ADDRESS = "Chișinău, stradela Bucovinei";
 const MAPS_LINK = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(ADDRESS)}`;
 
 const normalizePhone = (value: string) => value.replace(/[^\d+]/g, "");
