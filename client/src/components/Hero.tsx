@@ -61,8 +61,6 @@ export default function Hero() {
             {/* Contact Card (în loc de formular) */}
             <Card className="bg-white/95 backdrop-blur-sm">
               <CardContent className="p-6">
-                <h3 className="text-xl font-semibold mb-6 text-foreground">Contact</h3>
-
                 <div className="space-y-5">
                   {/* Telefon */}
                   <div className="flex items-start gap-4">
