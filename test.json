@@ -1,0 +1,2339 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 14767164,
+      "application_id": 219,
+      "name": "A. John Zeller",
+      "first_name": "A. John",
+      "last_name": "Zeller",
+      "headline": "Director at TeamBank/ adorsys Ireland",
+      "summary": null,
+      "job_title": "Director",
+      "company_name": "TeamBank/ adorsys Ireland",
+      "job_industry": null,
+      "location": "DUBLIN, Ireland",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/98e2f0acab374d00ad2cf049d30a9d9e.jpg",
+      "type_category_id": 1,
+      "active": 0,
+      "needs_activation": 1,
+      "date_created": 1757690969,
+      "date_updated": 1759241841,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14767164",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 1026,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "false",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee",
+          "type_key": "attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee"
+      ],
+      "search_after": [
+        "a. john zeller"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 1026,
+      "type_key": "attendee",
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14767164.jpg?container_id=8610"
+    },
+    {
+      "id": 14766209,
+      "application_id": 219,
+      "name": "A.J. Tus",
+      "first_name": "A.J.",
+      "last_name": "Tus",
+      "headline": "Head of Payments & FinTech Partnerships at DoorDash",
+      "summary": null,
+      "job_title": "Head of Payments & FinTech Partnerships",
+      "company_name": "DoorDash",
+      "job_industry": null,
+      "location": "San Francisco, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/744f38ccfc4040c5acec86da57b96d6e.png",
+      "type_category_id": 1,
+      "active": 1,
+      "needs_activation": 0,
+      "date_created": 1757690522,
+      "date_updated": 1759881753,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14766209",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886",
+        "24144"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-hiring-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee",
+        "Buyer - Retailer"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 1026,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "true",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee",
+          "type_key": "attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886,
+        24121,
+        24144
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 24121,
+          "group_name": "Buyer",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 24144,
+          "group_name": "Buyer - Retailers",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886",
+        "24144"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-hiring-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee",
+        "Buyer - Retailer"
+      ],
+      "search_after": [
+        "a.j. tus"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 1026,
+      "type_key": "attendee",
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14766209.jpg?container_id=8610"
+    },
+    {
+      "id": 14839929,
+      "application_id": 219,
+      "name": "Aafie Somers",
+      "first_name": "Aafie",
+      "last_name": "Somers",
+      "headline": "Product Marketing Manager at Quavo",
+      "summary": null,
+      "job_title": "Product Marketing Manager",
+      "company_name": "Quavo",
+      "job_industry": null,
+      "location": "Wilmington, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/943182246c594415a3317bf3fcf27779.png",
+      "type_category_id": 1,
+      "active": 0,
+      "needs_activation": 1,
+      "date_created": 1758308462,
+      "date_updated": 1759245481,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14839929",
+      "words": null,
+      "last_joined_group_ids": [
+        "23891"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "First-Timer"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 4964,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "false",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23891
+      ],
+      "groups": [
+        {
+          "group_id": 23891,
+          "group_name": "First Timer",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23891"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "First-Timer"
+      ],
+      "search_after": [
+        "aafie somers"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 4964,
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14839929.jpg?container_id=8610"
+    },
+    {
+      "id": 15022002,
+      "application_id": 219,
+      "name": "Aalap Parikh",
+      "first_name": "Aalap",
+      "last_name": "Parikh",
+      "headline": "Head of Partner Engineering at Meta Headquarters",
+      "summary": null,
+      "job_title": "Head of Partner Engineering",
+      "company_name": "Meta Headquarters",
+      "job_industry": null,
+      "location": "Menlo Park, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/34cd71067cfe4160b561d915d60e2d07.jpg",
+      "type_category_id": 1,
+      "active": 0,
+      "needs_activation": 1,
+      "date_created": 1759779091,
+      "date_updated": 1759779967,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/15022002",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 1026,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "false",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee",
+          "type_key": "attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee"
+      ],
+      "search_after": [
+        "aalap parikh"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 1026,
+      "type_key": "attendee",
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/15022002.jpg?container_id=8610"
+    },
+    {
+      "id": 14767601,
+      "application_id": 219,
+      "name": "Aaron Aggerwal",
+      "first_name": "Aaron",
+      "last_name": "Aggerwal",
+      "headline": "Chief Lending Officer at Navy Federal Credit Union",
+      "summary": null,
+      "job_title": "Chief Lending Officer",
+      "company_name": "Navy Federal Credit Union",
+      "job_industry": null,
+      "location": "Vienna, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/4f0fbbe924ac48dda5f867d390c21318.jpg",
+      "type_category_id": 1,
+      "active": 0,
+      "needs_activation": 1,
+      "date_created": 1757691190,
+      "date_updated": null,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14767601",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 1026,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "false",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee",
+          "type_key": "attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee"
+      ],
+      "search_after": [
+        "aaron aggerwal"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 1026,
+      "type_key": "attendee",
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14767601.jpg?container_id=8610"
+    },
+    {
+      "id": 14768293,
+      "application_id": 219,
+      "name": "Aaron August",
+      "first_name": "Aaron",
+      "last_name": "August",
+      "headline": "SVP, Event Marketing & Experiences at Synchrony",
+      "summary": null,
+      "job_title": "SVP, Event Marketing & Experiences",
+      "company_name": "Synchrony",
+      "job_industry": null,
+      "location": "Stamford, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/e0f1d9c3c46540b699c02e577c83a3b7.jpg",
+      "type_category_id": 1,
+      "active": 1,
+      "needs_activation": 0,
+      "date_created": 1757691541,
+      "date_updated": 1758555465,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14768293",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886",
+        "23889",
+        "23900"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee",
+        "Early Access",
+        "Sponsor"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 4964,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "true",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886,
+        23889,
+        23900
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 23900,
+          "group_name": "Meet the Banks",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 23889,
+          "group_name": "Sponsor",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886",
+        "23889",
+        "23900"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee",
+        "Early Access",
+        "Sponsor"
+      ],
+      "search_after": [
+        "aaron august"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 4964,
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14768293.jpg?container_id=8610"
+    },
+    {
+      "id": 14975044,
+      "application_id": 219,
+      "name": "Aaron Barker",
+      "first_name": "Aaron",
+      "last_name": "Barker",
+      "headline": "Head of M&A and Partnerships at Vanguard",
+      "summary": null,
+      "job_title": "Head of M&A and Partnerships",
+      "company_name": "Vanguard",
+      "job_industry": null,
+      "location": "Malvern, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/9fc782261e5a42e8bf5790af4409e693.jpg",
+      "type_category_id": 1,
+      "active": 1,
+      "needs_activation": 0,
+      "date_created": 1759269678,
+      "date_updated": 1759270564,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14975044",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-hiring-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 1026,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "true",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-hiring-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee"
+      ],
+      "search_after": [
+        "aaron barker"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 1026,
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14975044.jpg?container_id=8610"
+    },
+    {
+      "id": 15033511,
+      "application_id": 219,
+      "name": "Aaron Begner",
+      "first_name": "Aaron",
+      "last_name": "Begner",
+      "headline": "VP Advanced Tech Sales at Forter",
+      "summary": null,
+      "job_title": "VP Advanced Tech Sales",
+      "company_name": "Forter",
+      "job_industry": null,
+      "location": "New York, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/c4d4dd0984b2429d9857b9d54c92f583.png",
+      "type_category_id": 1,
+      "active": 1,
+      "needs_activation": 0,
+      "date_created": 1759854715,
+      "date_updated": 1759855570,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/15033511",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-hiring-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 1026,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "true",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee",
+          "type_key": "attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-hiring-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee"
+      ],
+      "search_after": [
+        "aaron begner"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 1026,
+      "type_key": "attendee",
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/15033511.jpg?container_id=8610"
+    },
+    {
+      "id": 14765434,
+      "application_id": 219,
+      "name": "Aaron Bright",
+      "first_name": "Aaron",
+      "last_name": "Bright",
+      "headline": "Business Development at Galileo Financial Technologies",
+      "summary": "I spend my days helping companies reimagine how money moves. At Galileo Financial Technologies, I lead B2B sales, working with banks, fintechs, and brands to build new payment solutions. What really excites me is exploring what’s next in fintech—whether that’s how businesses embed financial tools, how stablecoins and real-time payments shift the landscape, or how we make financial services more useful for people every day.\n\nBefore Galileo, I learned the ropes at Meta Payment Systems (Pathward Bank) and U.S. Bank, where I partnered with fintechs to bring new card and payment programs to life.\n\nIf you’re curious about the future of payments, want to swap ideas about where the industry is headed, or just enjoy a good conversation about building what’s next, I’m always up for it.",
+      "job_title": "Business Development",
+      "company_name": "Galileo Financial Technologies",
+      "job_industry": null,
+      "location": "Sandy, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/7c95dabdfe67408d9a914714d9de99cc.jpg",
+      "type_category_id": 1,
+      "active": 1,
+      "needs_activation": 0,
+      "date_created": 1757690157,
+      "date_updated": 1759772363,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14765434",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886",
+        "23899"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-area_of_interest-1": [
+        "Cryptocurrency/Blockchain",
+        "Embedded Finance/Retail"
+      ],
+      "app-219-notifications-1": [
+        "Attendee"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 4964,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "true",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886,
+        23899
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 23899,
+          "group_name": "Payments and Payments Technology",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886",
+        "23899"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-area_of_interest-1_en-gb": [
+        "Cryptocurrency/Blockchain",
+        "Embedded Finance/Retail"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee"
+      ],
+      "search_after": [
+        "aaron bright"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 4964,
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14765434.jpg?container_id=8610"
+    },
+    {
+      "id": 14766954,
+      "application_id": 219,
+      "name": "Aaron Byrne",
+      "first_name": "Aaron",
+      "last_name": "Byrne",
+      "headline": "Partner at LEK Consulting",
+      "summary": null,
+      "job_title": "Partner",
+      "company_name": "LEK Consulting",
+      "job_industry": null,
+      "location": "Boston, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/1a2a3e8f01224072b1e6108d87741325.png",
+      "type_category_id": 1,
+      "active": 0,
+      "needs_activation": 1,
+      "date_created": 1757690872,
+      "date_updated": null,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14766954",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 1026,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "false",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee",
+          "type_key": "attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee"
+      ],
+      "search_after": [
+        "aaron byrne"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 1026,
+      "type_key": "attendee",
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14766954.jpg?container_id=8610"
+    },
+    {
+      "id": 14768231,
+      "application_id": 219,
+      "name": "Aaron Cheiffetz",
+      "first_name": "Aaron",
+      "last_name": "Cheiffetz",
+      "headline": "Executive Strategist | Field CIO at CDW",
+      "summary": "Aaron Cheiffetz serves as an Executive Strategist and Field CIO for The Financial Services Industry. Mr. Cheiffetz is responsible for leading transformation road mapping, IT Economics and enterprise-wide program execution. He partners with clients to identify fit for purpose technologies and implement strategies that drive measurable results to align with desired outcomes. Before joining CDW he was a Hybrid Cloud & AI platform consultant at IBM focused on financial services clients.  Earlier in his career he held a variety of roles at AT&T in consulting, technical sales and integrated technology go-to-market strategy. He holds an MBA in Corporate Strategy and Finance from Wake Forest University School of Business.",
+      "job_title": "Executive Strategist | Field CIO",
+      "company_name": "CDW",
+      "job_industry": null,
+      "location": "Charlotte, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/1acf997537fb429191f7cd8ca66537bc.jpg",
+      "type_category_id": 1,
+      "active": 1,
+      "needs_activation": 0,
+      "date_created": 1757691503,
+      "date_updated": 1759671961,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14768231",
+      "words": null,
+      "last_joined_group_ids": [
+        "23889"
+      ],
+      "app-219-state-1": [
+        "North Carolina"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-area_of_interest-1": [
+        "Banking",
+        "Cryptocurrency/Blockchain",
+        "Embedded Finance/Retail",
+        "Fraud",
+        "Identity",
+        "Infrastructure",
+        "Policy/Regulation"
+      ],
+      "app-219-notifications-1": [
+        "Early Access",
+        "Sponsor"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 4964,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "true",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23889
+      ],
+      "groups": [
+        {
+          "group_id": 23889,
+          "group_name": "Sponsor",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23889"
+      ],
+      "app-219-state-1_en-gb": [
+        "North Carolina"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-area_of_interest-1_en-gb": [
+        "Banking",
+        "Cryptocurrency/Blockchain",
+        "Embedded Finance/Retail",
+        "Fraud",
+        "Identity",
+        "Infrastructure",
+        "Policy/Regulation"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Early Access",
+        "Sponsor"
+      ],
+      "search_after": [
+        "aaron cheiffetz"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 4964,
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14768231.jpg?container_id=8610"
+    },
+    {
+      "id": 14765922,
+      "application_id": 219,
+      "name": "Aaron Dauphinee",
+      "first_name": "Aaron",
+      "last_name": "Dauphinee",
+      "headline": " Chief Marketing Officer at The Wise Marketer",
+      "summary": null,
+      "job_title": " Chief Marketing Officer",
+      "company_name": "The Wise Marketer",
+      "job_industry": null,
+      "location": "Toronto, Canada",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/bc1ca7a0ff8f4266ae958ba557233079.png",
+      "type_category_id": 1,
+      "active": 0,
+      "needs_activation": 1,
+      "date_created": 1757690386,
+      "date_updated": null,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14765922",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886",
+        "23887"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-hiring-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee",
+        "Speaker (badge icon)",
+        "Speaker"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [
+        262889
+      ],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 4903,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "false",
+          "type_key_translation_en": "Speaker",
+          "type_key_translation": "Speaker",
+          "type_key_translation_en-gb": "Speaker"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886,
+        23887
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 23887,
+          "group_name": "Speaker",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886",
+        "23887"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-hiring-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee",
+        "Speaker (badge icon)",
+        "Speaker"
+      ],
+      "search_after": [
+        "aaron dauphinee"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 4903,
+      "can_swipe": 1,
+      "type_key_translation": "Speaker",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14765922.jpg?container_id=8610"
+    },
+    {
+      "id": 14883828,
+      "application_id": 219,
+      "name": "Aaron Deutsch",
+      "first_name": "Aaron",
+      "last_name": "Deutsch",
+      "headline": "Principal at Haveli Investments",
+      "summary": null,
+      "job_title": "Principal",
+      "company_name": "Haveli Investments",
+      "job_industry": null,
+      "location": "Austin, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/3d7d58478b084c9398cb3bb8242301c9.png",
+      "type_category_id": 1,
+      "active": 1,
+      "needs_activation": 0,
+      "date_created": 1758753084,
+      "date_updated": 1760108059,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14883828",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-hiring-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 1026,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "true",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee",
+          "type_key": "attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-hiring-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee"
+      ],
+      "search_after": [
+        "aaron deutsch"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 1026,
+      "type_key": "attendee",
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14883828.jpg?container_id=8610"
+    },
+    {
+      "id": 14868518,
+      "application_id": 219,
+      "name": "Aaron Efta",
+      "first_name": "Aaron",
+      "last_name": "Efta",
+      "headline": "Partner at Chapman and Cutler LLP",
+      "summary": null,
+      "job_title": "Partner",
+      "company_name": "Chapman and Cutler LLP",
+      "job_industry": null,
+      "location": "Chicago, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/f5b73c91de1f41f99c17632ccfe1b3df.jpg",
+      "type_category_id": 1,
+      "active": 0,
+      "needs_activation": 1,
+      "date_created": 1758664874,
+      "date_updated": 1759497370,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14868518",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 4964,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "false",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee"
+      ],
+      "search_after": [
+        "aaron efta"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 4964,
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14868518.jpg?container_id=8610"
+    },
+    {
+      "id": 14766633,
+      "application_id": 219,
+      "name": "Aaron Falcon",
+      "first_name": "Aaron",
+      "last_name": "Falcon",
+      "headline": "Enterprise Accounts at TaxBit",
+      "summary": null,
+      "job_title": "Enterprise Accounts",
+      "company_name": "TaxBit",
+      "job_industry": null,
+      "location": "Draper, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/327ea89fe57b4559914277c86556e601.png",
+      "type_category_id": 1,
+      "active": 0,
+      "needs_activation": 1,
+      "date_created": 1757690722,
+      "date_updated": null,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14766633",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886",
+        "23891"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee",
+        "First-Timer"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 1026,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "false",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee",
+          "type_key": "attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886,
+        23891
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 23891,
+          "group_name": "First Timer",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886",
+        "23891"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee",
+        "First-Timer"
+      ],
+      "search_after": [
+        "aaron falcon"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 1026,
+      "type_key": "attendee",
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14766633.jpg?container_id=8610"
+    },
+    {
+      "id": 15010906,
+      "application_id": 219,
+      "name": "Aaron Frye",
+      "first_name": "Aaron",
+      "last_name": "Frye",
+      "headline": "Founder & CEO at Lucid Point Consulting",
+      "summary": "My firm Lucid Point Consulting specializes in fraud risk management + sales related services for solution providers of fraud & identity risk + transaction monitoring tools. \n\nMy two partners and I have worked in 9 different fraud & payments risk roles from 9 different financial service companies. Practical industry experience is our foundation to provide you a great ROI with our services ",
+      "job_title": "Founder & CEO",
+      "company_name": "Lucid Point Consulting",
+      "job_industry": null,
+      "location": "Atlanta, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/81b0c4d8bfe341da95f4a61ae0b35001.jpg",
+      "type_category_id": 1,
+      "active": 1,
+      "needs_activation": 0,
+      "date_created": 1759665763,
+      "date_updated": 1760042788,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/15010906",
+      "words": null,
+      "app-219-state-1": [
+        "Georgia"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-hiring-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "Yes"
+      ],
+      "app-219-area_of_interest-1": [
+        "Banking",
+        "Cryptocurrency/Blockchain",
+        "Fraud",
+        "Identity",
+        "Lending",
+        "Policy/Regulation"
+      ],
+      "app-219-notifications-1": [
+        "Amplify"
+      ],
+      "last_joined_group_ids": [
+        "23886"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 4904,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "true",
+          "type_key_translation_en": "RiseUp",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "app-219-state-1_en-gb": [
+        "Georgia"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-hiring-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "Yes"
+      ],
+      "app-219-area_of_interest-1_en-gb": [
+        "Banking",
+        "Cryptocurrency/Blockchain",
+        "Fraud",
+        "Identity",
+        "Lending",
+        "Policy/Regulation"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Amplify"
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886"
+      ],
+      "search_after": [
+        "aaron frye"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 4904,
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/15010906.jpg?container_id=8610"
+    },
+    {
+      "id": 14825645,
+      "application_id": 219,
+      "name": "Aaron Gould",
+      "first_name": "Aaron",
+      "last_name": "Gould",
+      "headline": "Director, Global Communications & Events at Visa Inc.",
+      "summary": null,
+      "job_title": "Director, Global Communications & Events",
+      "company_name": "Visa Inc.",
+      "job_industry": null,
+      "location": "San Francisco, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/6322b765d1454ff8acb8b100016c65cf.jpg",
+      "type_category_id": 1,
+      "active": 1,
+      "needs_activation": 0,
+      "date_created": 1758202395,
+      "date_updated": 1759226588,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14825645",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886",
+        "23889"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee",
+        "Early Access",
+        "Sponsor"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 4964,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "true",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886,
+        23889
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 23889,
+          "group_name": "Sponsor",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886",
+        "23889"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee",
+        "Early Access",
+        "Sponsor"
+      ],
+      "search_after": [
+        "aaron gould"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 4964,
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14825645.jpg?container_id=8610"
+    },
+    {
+      "id": 14811767,
+      "application_id": 219,
+      "name": "Aaron Greenberg",
+      "first_name": "Aaron",
+      "last_name": "Greenberg",
+      "headline": "Chief Strategy Officer at Nayax",
+      "summary": null,
+      "job_title": "Chief Strategy Officer",
+      "company_name": "Nayax",
+      "job_industry": null,
+      "location": "Herzliya, Israel",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/939d745c02174740b7826d4d4c083739.jpg",
+      "type_category_id": 1,
+      "active": 1,
+      "needs_activation": 0,
+      "date_created": 1758131209,
+      "date_updated": 1758132191,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14811767",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886",
+        "23891",
+        "23899"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-hiring-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee",
+        "First-Timer"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 1026,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "true",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886,
+        23891,
+        23899
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 23891,
+          "group_name": "First Timer",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 23899,
+          "group_name": "Payments and Payments Technology",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886",
+        "23891",
+        "23899"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-hiring-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee",
+        "First-Timer"
+      ],
+      "search_after": [
+        "aaron greenberg"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 1026,
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14811767.jpg?container_id=8610"
+    },
+    {
+      "id": 14766446,
+      "application_id": 219,
+      "name": "Aaron Houpis",
+      "first_name": "Aaron",
+      "last_name": "Houpis",
+      "headline": "Managing Director at Banc of California",
+      "summary": null,
+      "job_title": "Managing Director",
+      "company_name": "Banc of California",
+      "job_industry": null,
+      "location": "Beverly Hills, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/dff584cdbe554794b50fc999a76fbe46.jpg",
+      "type_category_id": 1,
+      "active": 0,
+      "needs_activation": 1,
+      "date_created": 1757690634,
+      "date_updated": null,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14766446",
+      "words": null,
+      "last_joined_group_ids": [
+        "23886",
+        "23891",
+        "23900"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Attendee",
+        "First-Timer"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 1026,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "false",
+          "type_key_translation_en": "Attendee",
+          "type_key_translation": "Attendee",
+          "type_key_translation_en-gb": "Attendee",
+          "type_key": "attendee"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23886,
+        23891,
+        23900
+      ],
+      "groups": [
+        {
+          "group_id": 23886,
+          "group_name": "Attendee",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 23891,
+          "group_name": "First Timer",
+          "access": null,
+          "is_speed_networking_group": 0
+        },
+        {
+          "group_id": 23900,
+          "group_name": "Meet the Banks",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23886",
+        "23891",
+        "23900"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Attendee",
+        "First-Timer"
+      ],
+      "search_after": [
+        "aaron houpis"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 1026,
+      "type_key": "attendee",
+      "can_swipe": 1,
+      "type_key_translation": "Attendee",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14766446.jpg?container_id=8610"
+    },
+    {
+      "id": 14768166,
+      "application_id": 219,
+      "name": "Aaron Kaplan",
+      "first_name": "Aaron",
+      "last_name": "Kaplan",
+      "headline": "Founder & Co-CEO at Prometheum Inc.",
+      "summary": null,
+      "job_title": "Founder & Co-CEO",
+      "company_name": "Prometheum Inc.",
+      "job_industry": null,
+      "location": "New York, United States",
+      "location_code": "en-gb",
+      "picture_url": "https://events-cdn.grip.events/things-images/4ffbf7634b10449e84a38886c9cc066d.png",
+      "type_category_id": 1,
+      "active": 1,
+      "needs_activation": 0,
+      "date_created": 1757691470,
+      "date_updated": 1758555205,
+      "search_class": "thing",
+      "uri": "/1/container/8610/thing/14768166",
+      "words": null,
+      "last_joined_group_ids": [
+        "23887"
+      ],
+      "app-219-looking_to_invest-1": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1": [
+        "No"
+      ],
+      "app-219-hiring-1": [
+        "No"
+      ],
+      "app-219-looking_for_work-1": [
+        "No"
+      ],
+      "app-219-notifications-1": [
+        "Speaker (badge icon)",
+        "Speaker"
+      ],
+      "container_id": [
+        8610
+      ],
+      "sessions_speaking": [
+        262980
+      ],
+      "sessions_attending": [],
+      "types": [
+        {
+          "container_id": 8610,
+          "type_id": 4903,
+          "can_meet": "true",
+          "can_swipe": "true",
+          "active": "true",
+          "type_key_translation_en": "Speaker",
+          "type_key_translation": "Speaker",
+          "type_key_translation_en-gb": "Speaker"
+        }
+      ],
+      "promotion_locations": [],
+      "group_ids": [
+        23887
+      ],
+      "groups": [
+        {
+          "group_id": 23887,
+          "group_name": "Speaker",
+          "access": null,
+          "is_speed_networking_group": 0
+        }
+      ],
+      "last_joined_group_ids_en-gb": [
+        "23887"
+      ],
+      "app-219-looking_to_invest-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_investment-1_en-gb": [
+        "No"
+      ],
+      "app-219-hiring-1_en-gb": [
+        "No"
+      ],
+      "app-219-looking_for_work-1_en-gb": [
+        "No"
+      ],
+      "app-219-notifications-1_en-gb": [
+        "Speaker (badge icon)",
+        "Speaker"
+      ],
+      "search_after": [
+        "aaron kaplan"
+      ],
+      "can_meet": 1,
+      "promoted": 0,
+      "promotion_level": "normal",
+      "default_meeting_location": null,
+      "type_id": 4903,
+      "can_swipe": 1,
+      "type_key_translation": "Speaker",
+      "registration_id": null,
+      "gps_lat": null,
+      "gps_lng": null,
+      "location_lat": null,
+      "location_lng": null,
+      "metadata": null,
+      "categories": null,
+      "did_answer_yes": 0,
+      "swipe_message": null,
+      "swipe_message_date_sent": null,
+      "default_access": "in_person",
+      "attendee_img": "https://api.grip.events/1/attendee_img/14768166.jpg?container_id=8610"
+    }
+  ]
+}

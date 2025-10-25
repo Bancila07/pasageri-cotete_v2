@@ -13,7 +13,6 @@ const services = [
     icon: Bus,
     image: passengerImage,
     features: ['Locuri confortabile', 'WiFi gratuit', 'Sistem de divertisment', '2 șoferi profesioniști'],
-    price: 'de la €120',
     color: 'chart-2'
   },
   {
@@ -23,7 +22,6 @@ const services = [
     icon: Package,
     image: packageImage,
     features: ['Livrare la adresă', 'Asigurare inclusă', 'Tracking în timp real', 'Manipulare profesională'],
-    price: 'de la €5/kg',
     color: 'chart-3'
   },
   {
@@ -33,7 +31,6 @@ const services = [
     icon: Car,
     image: carImage,
     features: ['Transport pe platformă', 'Asigurare completă', 'Inspecție pre-transport', 'Livrare la adresă'],
-    price: 'de la €300',
     color: 'chart-4'
   }
 ];
@@ -78,7 +75,7 @@ export default function ServicesSection() {
                 <CardHeader className="pb-4">
                   <div className="flex items-center justify-between">
                     <CardTitle className="text-xl">{service.title}</CardTitle>
-                    <span className="text-lg font-semibold text-primary">{service.price}</span>
+                    <span className="text-lg font-semibold text-primary"></span>
                   </div>
                 </CardHeader>
                 
@@ -93,12 +90,12 @@ export default function ServicesSection() {
                       </li>
                     ))}
                   </ul>
-                  
-                  <Button 
-                    variant="outline" 
-                    className="w-full group/btn"
-                    onClick={() => handleServiceSelect(service.id)}
-                    data-testid={`button-select-${service.id}`}
+
+                  <Button
+                      variant="outline"
+                      className="w-full group/btn"
+                      onClick={() => window.location.href = "tel:+37369572652"}
+                      data-testid={`button-select-${service.id}`}
                   >
                     Rezervă Acum
                     <ArrowRight className="w-4 h-4 ml-2 group-hover/btn:translate-x-1 transition-transform" />
