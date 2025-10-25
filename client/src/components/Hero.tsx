@@ -116,6 +116,31 @@ export default function Hero() {
                     </Button>
                   </div>
 
+                  {/* Adresă */}
+                  <div className="flex items-start gap-4">
+                    <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
+                      <MapPin className="w-6 h-6 text-primary" />
+                    </div>
+                    <div className="flex-1">
+                      <h4 className="font-semibold text-foreground mb-1">Adresă</h4>
+                      <button
+                          className="text-muted-foreground hover:text-primary text-left"
+                          onClick={() => window.open(MAPS_LINK, "_blank")}
+                          data-testid="contact-address"
+                      >
+                        {ADDRESS}
+                      </button>
+                    </div>
+                    <Button
+                        size="sm"
+                        variant="outline"
+                        onClick={() => window.open(MAPS_LINK, "_blank")}
+                        data-testid="button-map"
+                    >
+                      <MapPin className="w-4 h-4" />
+                    </Button>
+                  </div>
+
                   {/* WhatsApp & Viber */}
                   <div className="flex items-start gap-4">
                     <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
@@ -143,31 +168,6 @@ export default function Hero() {
                         </Button>
                       </div>
                     </div>
-                  </div>
-
-                  {/* Adresă */}
-                  <div className="flex items-start gap-4">
-                    <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center">
-                      <MapPin className="w-6 h-6 text-primary" />
-                    </div>
-                    <div className="flex-1">
-                      <h4 className="font-semibold text-foreground mb-1">Adresă</h4>
-                      <button
-                          className="text-muted-foreground hover:text-primary text-left"
-                          onClick={() => window.open(MAPS_LINK, "_blank")}
-                          data-testid="contact-address"
-                      >
-                        {ADDRESS}
-                      </button>
-                    </div>
-                    <Button
-                        size="sm"
-                        variant="outline"
-                        onClick={() => window.open(MAPS_LINK, "_blank")}
-                        data-testid="button-map"
-                    >
-                      <MapPin className="w-4 h-4" />
-                    </Button>
                   </div>
                 </div>
               </CardContent>
